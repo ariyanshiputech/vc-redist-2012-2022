@@ -23,7 +23,7 @@ Many Windows desktop applications depend on shared runtime libraries provided by
 
 | Version | Architecture | Download Link | Notes |
 |--------:|:-------------|:--------------|:------|
-| **2022** (v14.3x) | ARM64 | [![Download](https://rb.gy/n1b5q4)](https://aka.ms/vs/17/release/vc_redist.arm64.exe) | Latest supported ARM64 version |
+| **2022** (v14.3x) | ARM64 | [![Download]([https://rb.gy/n1b5q4](https://honey.badgers.space/badge//DOWNLOAD/green?icon=/cloud-download.png&corner_radius=2&theme=badgen))](https://aka.ms/vs/17/release/vc_redist.arm64.exe) | Latest supported ARM64 version |
 | **2022** (v14.3x) | x64   | [![Download](https://rb.gy/n1b5q4)](https://aka.ms/vs/17/release/vc_redist.x64.exe)   | Latest supported x64 version |
 | **2022** (v14.3x) | x86   | [![Download](https://rb.gy/n1b5q4)](https://aka.ms/vs/17/release/vc_redist.x86.exe)   | Latest supported x86 version |
 | **2019** (v14.2x) | x64   | [![Download](https://rb.gy/n1b5q4)](https://aka.ms/vs/16/release/vc_redist.x64.exe)   | Covered by 2022 runtime |
